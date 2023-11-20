@@ -1,0 +1,2 @@
+1.  env\Scripts\activate
+2.  python .\run.py
